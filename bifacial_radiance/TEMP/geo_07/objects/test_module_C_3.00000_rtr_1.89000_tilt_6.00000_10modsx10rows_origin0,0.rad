@@ -1,0 +1,1 @@
+!xform -rx 6 -t 0 0 3.0909397630428583 -a 10 -t 1.036 0 0 -a 10 -t 0 1.89 0 -i 1 -t -4.144 -7.56 0 -rz 0 -t 0 0 0 objects\test_module.rad

@@ -1,0 +1,1 @@
+! genrev lightsoil test_plant t*4 1.5 32 | xform -t 0.5 1.5 0

@@ -1,0 +1,2 @@
+!xform -rx 10 -t 0 0 3 -a 5 -t 2.6399999999999997 0 0 -a 5 -t 0 15 0 -i 1 -t -5.279999999999999 -30.0 0 -rz 0 -t 0 0 0 objects\test_module.rad
+!xform -rz 0 objects\test_plant.rad
